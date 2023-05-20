@@ -1,5 +1,6 @@
 # 💫 About Me:
-Addicted to solving problems.
+Addicted to solving problems. Currently studying at FATEC Ourinhos, Systems Analysis and Development, loves to solve problems and improve my skills.
+Currently looking to learn more and more and finding opportunities to work or development.
 
 
 # 💻 Tech Stack:
